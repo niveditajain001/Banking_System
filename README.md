@@ -1,4 +1,4 @@
-# 🏦 Banking System (Menu Driven)
+# 🏦 Banking System 
 
 ## 📌 Overview
 This is a simple Python-based banking system designed for learning purposes.  
