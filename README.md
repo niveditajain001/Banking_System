@@ -25,7 +25,7 @@ Account information is temporarily stored using Python dictionaries across modul
 | Programming Language | Python 3.x |
 | Data Structure | Dictionaries |
 | Approach | Modular Programming |
-| IDE (optional) | VS Code / PyCharm / IDLE |
+| IDE  | VS Code / PyCharm / IDLE |
 
 ---
 
